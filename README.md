@@ -21,7 +21,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArtemChernikov&theme=dracula&hide_border=true)
 
-## Связаться со мной👋🏼
+## Связаться со мной 👋🏼
 
 <p align="left"> 
 <a href="https://t.me/OvercomingJunk" target="blank"><img src="https://img.icons8.com/clouds/50/000000/telegram-app.png"/></a>

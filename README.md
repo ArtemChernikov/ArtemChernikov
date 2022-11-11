@@ -25,7 +25,6 @@
 
 <p align="left"> 
 <a href="https://t.me/OvercomingJunk" target="blank"><img src="https://img.icons8.com/clouds/50/000000/telegram-app.png"/></a>
-<a href="https://www.instagram.com/nelsonmandela_812/" target="blank"><img src="https://img.icons8.com/clouds/50/000000/instagram-new--v3.png"/></a>  
 </p>
 
 ## Технологии ⚙️

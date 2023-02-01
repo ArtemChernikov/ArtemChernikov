@@ -1,4 +1,4 @@
-# Привет, меня зовут Артем 👋🏼
+# Привет, меня зовут Артем <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## Обо мне 🧑🏼‍💻
 

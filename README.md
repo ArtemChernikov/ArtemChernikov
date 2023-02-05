@@ -1,4 +1,4 @@
-# Привет, меня зовут Артем <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Привет, меня зовут Артем <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <img src="https://komarev.com/ghpvc/?username=ArtemChernikov&color=brightgreen" alt="watching_count" /> </h1> 
 
 ## Обо мне 🧑🏼‍💻
 
@@ -42,3 +42,4 @@
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtemChernikov&show_icons=true&theme=dracula&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&locale=en&layout=compact&hide_border=true" alt="ArtemChernikov" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArtemChernikov&show_icons=true&theme=dracula&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&locale=en&hide_border=true" alt="ArtemChernikov" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemChernikov&theme=highcontrast&hide_border=true" alt="ArtemChernikov" />
+<img width="47%" src="https://leetcode-stats-six.vercel.app/api?username=ArtemChernikov&theme=dark" alt="ArtemChernikov" />

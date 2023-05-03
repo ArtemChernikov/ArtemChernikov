@@ -22,7 +22,7 @@
 ## Связаться со мной 👋🏼
 
 <p align="left"> 
-<a href="https://t.me/OvercomingJunk" target="blank"><img src="https://img.icons8.com/clouds/50/000000/telegram-app.png"/></a>
+<a href="https://t.me/Overcomingjunk" target="blank"><img src="https://img.icons8.com/clouds/50/000000/telegram-app.png"/></a>
 </p>
 
 ## Технологии ⚙️

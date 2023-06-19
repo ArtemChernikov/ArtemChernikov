@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-[![ArtemChernikov github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArtemChernikov&theme=dracula&hide_border=true)](https://github.com/ArtemChernikov/github-readme-activity-graph)
+[![ArtemChernikov github activity graph](https://github-readme-activity-vercel.app/graph?username=ArtemChernikov&theme=dracula&hide_border=true)](https://github.com/ArtemChernikov/github-readme-activity-graph)
 
 ## Связаться со мной 👋🏼
 

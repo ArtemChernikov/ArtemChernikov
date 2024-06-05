@@ -1,6 +1,6 @@
 # Привет, меня зовут Артем <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <img src="https://komarev.com/ghpvc/?username=ArtemChernikov&color=brightgreen" alt="watching_count" /> </h1>
 
-## Обо мне 🧑🏼‍💻
+## Обо мне🧑🏼‍💻
 
 <table>
 <tr>

@@ -1,18 +1,7 @@
-# Привет, меня зовут Артем <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <img src="https://komarev.com/ghpvc/?username=ArtemChernikov&color=brightgreen" alt="watching_count" /> </h1>
+# Привет, меня зовут Артем
 
 ## Обо мне🧑🏼‍💻
 
-<table>
-<tr>
-<td valign="center">
-  
-  
-  <td>
-      <a href="https://app.daily.dev/ArtemChernikov"><img src="https://api.daily.dev/devcards/ce37edddea1046a78e7b555057c6fae3.png?r=ady" width="400" alt="Artem Chernikov's Dev Card"/></a>
-    </td>
-  
-  </tr>
-</table>
 
 [![ArtemChernikov's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtemChernikov&theme=dracula&hide_border=true)](https://github.com/ArtemChernikov/github-readme-activity-graph)
 

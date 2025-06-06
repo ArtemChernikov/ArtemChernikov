@@ -6,7 +6,6 @@
 <tr>
 <td valign="center">
   
-🎓 В настоящее время я получаю степень **бакалавра в сфере информационных технологий**.
   
   <td>
       <a href="https://app.daily.dev/ArtemChernikov"><img src="https://api.daily.dev/devcards/ce37edddea1046a78e7b555057c6fae3.png?r=ady" width="400" alt="Artem Chernikov's Dev Card"/></a>
